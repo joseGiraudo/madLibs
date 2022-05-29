@@ -1,0 +1,1 @@
+const originalStory = "This is the story that later needs to change"
